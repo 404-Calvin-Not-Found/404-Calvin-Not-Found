@@ -2,13 +2,151 @@
 
 <div align="center">
 
-<object type="image/svg+xml" 
-        data="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/quantum-core.svg" 
-        width="500" 
-        height="500">
-  <!-- Fallback content for unsupported environments -->
-  Your browser does not support SVG animations.
-</object>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Quantum Neural Interface</title>
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background: radial-gradient(circle at center, #0a0a0a, #1a1a1a 85%);
+    overflow: hidden;
+    font-family: monospace;
+    color: #00ffcc;
+  }
+  h1 {
+    text-align: center;
+    margin-top: 20px;
+    text-shadow: 0 0 10px #00ffcc, 0 0 20px #004225, 0 0 30px #301934;
+  }
+  svg {
+    display: block;
+    margin: auto;
+    max-width: 90%;
+    max-height: 80vh;
+  }
+</style>
+</head>
+<body>
+
+<h1>🧠 QUANTUM NEURAL INTERFACE</h1>
+
+<!-- MAIN SVG EXPERIENCE -->
+<svg viewBox="0 0 800 800" width="600" height="600" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Futuristic Grid Background -->
+  <defs>
+    <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M50 0 L0 0 0 50" fill="none" stroke="#004225" stroke-width="0.5"/>
+    </pattern>
+    <radialGradient id="coreGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00ffcc" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#004225" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="portalGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00ffcc" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#301934" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#004225" stop-opacity="0.1"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background Grid -->
+  <rect width="800" height="800" fill="url(#grid)"/>
+
+  <!-- Quantum Core -->
+  <circle cx="400" cy="400" r="50" fill="url(#coreGlow)">
+    <animate attributeName="r" values="50;60;50" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.8;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Neural Waves -->
+  <path d="M0,400 Q200,350 400,400 T800,400" stroke="#00ffcc" stroke-width="3" fill="none">
+    <animate attributeName="d"
+             values="M0,400 Q200,350 400,400 T800,400;
+                     M0,400 Q200,450 400,400 T800,380;
+                     M0,400 Q200,400 400,420 T800,410;
+                     M0,400 Q200,350 400,400 T800,400"
+             dur="5s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,420 Q200,380 400,420 T800,400" stroke="#301934" stroke-width="2" fill="none" opacity="0.7">
+    <animate attributeName="d"
+             values="M0,420 Q200,380 400,420 T800,400;
+                     M0,420 Q200,420 400,440 T800,430;
+                     M0,420 Q200,380 400,420 T800,400"
+             dur="4s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Electric Sparks -->
+  <g stroke="#00ffcc" stroke-width="2">
+    <line x1="400" y1="400" x2="400" y2="150" opacity="0.8">
+      <animate attributeName="x2" values="400;380;420;400" dur="0.9s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="150;130;170;150" dur="0.9s" repeatCount="indefinite"/>
+    </line>
+    <line x1="400" y1="400" x2="650" y2="400" opacity="0.6">
+      <animate attributeName="x2" values="650;630;670;650" dur="1s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="400;380;420;400" dur="1s" repeatCount="indefinite"/>
+    </line>
+    <line x1="400" y1="400" x2="150" y2="400" opacity="0.6">
+      <animate attributeName="x2" values="150;170;130;150" dur="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="400;380;420;400" dur="1.2s" repeatCount="indefinite"/>
+    </line>
+    <line x1="400" y1="400" x2="400" y2="650" opacity="0.7">
+      <animate attributeName="x2" values="400;380;420;400" dur="1.1s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="650;670;630;650" dur="1.1s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- Floating Neural Nodes -->
+  <circle cx="300" cy="300" r="6" fill="#004225">
+    <animate attributeName="cx" values="300;320;280;300" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="300;280;320;300" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="500" cy="500" r="6" fill="#004225">
+    <animate attributeName="cx" values="500;480;520;500" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="500;520;480;500" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="250" cy="550" r="6" fill="#006666">
+    <animate attributeName="cx" values="250;270;230;250" dur="2.8s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="550;530;570;550" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="550" cy="250" r="6" fill="#006666">
+    <animate attributeName="cx" values="550;570;530;550" dur="2.3s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="250;270;230;250" dur="2.3s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Portal Rings -->
+  <circle cx="400" cy="400" r="80" fill="none" stroke="#00ffcc" stroke-width="3" opacity="0.7">
+    <animate attributeName="r" values="80;90;80" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="400" cy="400" r="50" fill="none" stroke="#301934" stroke-width="3" opacity="0.5">
+    <animate attributeName="r" values="50;60;50" dur="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.8;0.5" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="400" cy="400" r="30" fill="url(#portalGradient)" opacity="0.9">
+    <animate attributeName="r" values="30;35;30" dur="1s" repeatCount="indefinite"/>
+  </circle>
+
+</svg>
+
+<!-- Interactive Terminal -->
+<svg width="500" height="60" viewBox="0 0 500 60" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="500" height="30" fill="#111" stroke="#00ffcc" stroke-width="2"/>
+  <text x="10" y="20" font-family="monospace" font-size="14" fill="#00ffcc">
+    <tspan x="10" y="20">visitor@quantum-core:~$ </tspan>
+  </text>
+  <rect x="250" y="15" width="10" height="2" fill="#00ffcc">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
+
+</body>
+</html>
+
 
 </div>
 
