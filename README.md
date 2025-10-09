@@ -1,4 +1,4 @@
-# 🧠 NEURAL INTERFACE PROTOCOL v13.07
+# NEURAL INTERFACE PROTOCOL v13.07
 
 <div align="center">
 
