@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Quantum Core Animation -->
-<img src="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/quantum-core.svg" alt="Quantum Core" width="300">
+<img src="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/quantum-core.svg" alt="Quantum Core" width="650">
 
 
 ### 🧠 **NEURAL LINK ESTABLISHED**
@@ -13,7 +13,7 @@
 > **AI_SENTIENCE**: 97.3%
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/brainwave.svg" width="800" height="200" alt="Brainwave Animation">
+  <img src="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/brainwave.svg" width="1500" height="500" alt="Brainwave Animation">
 </div>
 
 <!-- REAL-TIME AI WIDGETS -->
@@ -29,19 +29,7 @@
 
 ### 🌌 **YOUR DIGITAL TWIN**
 
-<!-- Neural Activity Visualization -->
-<svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg">
-  <path d="M0,50 Q50,30 100,50 T200,50 T300,30" stroke="#006666" stroke-width="3" fill="none">
-    <animate attributeName="d" values="M0,50 Q50,30 100,50 T200,50 T300,30;M0,50 Q50,70 100,50 T200,30 T300,50;M0,50 Q50,30 100,50 T200,50 T300,30" dur="2s" repeatCount="indefinite"/>
-  </path>
-  <path d="M0,30 Q50,50 100,30 T200,70 T300,50" stroke="#004225" stroke-width="3" fill="none" opacity="0.8">
-    <animate attributeName="d" values="M0,30 Q50,50 100,30 T200,70 T300,50;M0,70 Q50,30 100,70 T200,50 T300,70;M0,30 Q50,50 100,30 T200,70 T300,50" dur="1.5s" repeatCount="indefinite"/>
-  </path>
-  <path d="M0,60 Q50,40 100,60 T200,40 T300,60" stroke="#301934" stroke-width="2" fill="none" opacity="0.7">
-    <animate attributeName="d" values="M0,60 Q50,40 100,60 T200,40 T300,60;M0,40 Q50,60 100,40 T200,60 T300,40;M0,60 Q50,40 100,60 T200,40 T300,60" dur="1.8s" repeatCount="indefinite"/>
-  </path>
-</svg>
-*Real-time neural activity mapping - visualizing your cognitive patterns*
+![Neural Activity](https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/matrix.svg)
 
 > **COGNITIVE_LOAD**: 78%  
 > **INTEREST_PROFILE**: quantum computing  
