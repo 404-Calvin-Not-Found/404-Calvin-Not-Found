@@ -5,7 +5,6 @@
 <!-- Quantum Core Animation using CSS/SVG -->
 <svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Glow effects -->
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur in="SourceGraphic" stdDeviation="5" result="blur"/>
       <feMerge>
@@ -22,7 +21,6 @@
       </feMerge>
     </filter>
     
-    <!-- Gradients -->
     <radialGradient id="quantumCore" cx="30%" cy="30%">
       <stop offset="0%" stop-color="#00f5ff" stop-opacity="1"/>
       <stop offset="50%" stop-color="#00a8ff" stop-opacity="0.8"/>
@@ -41,18 +39,15 @@
     </linearGradient>
   </defs>
   
-  <!-- Background Glow -->
   <circle cx="150" cy="150" r="85" fill="url(#quantumCore)" filter="url(#glow)" opacity="0.7">
     <animate attributeName="r" values="85;90;85" dur="3s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.7;0.9;0.7" dur="2s" repeatCount="indefinite"/>
   </circle>
   
-  <!-- Main Quantum Sphere -->
   <circle cx="150" cy="150" r="60" fill="url(#quantumCore)" filter="url(#intenseGlow)">
     <animate attributeName="r" values="60;65;60" dur="2s" repeatCount="indefinite"/>
   </circle>
   
-  <!-- Energy Pulse Rings -->
   <circle cx="150" cy="150" r="75" fill="none" stroke="url(#energyPulse)" stroke-width="2" opacity="0.6">
     <animate attributeName="r" values="75;85;75" dur="2.5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.6;0.8;0.6" dur="2s" repeatCount="indefinite"/>
@@ -63,7 +58,6 @@
     <animate attributeName="opacity" values="0.4;0.6;0.4" dur="2.5s" repeatCount="indefinite"/>
   </circle>
   
-  <!-- Neural Pathway 1 -->
   <path d="M100,100 Q150,50 200,100 T300,150 T200,200 T100,150 T100,100" 
         fill="none" stroke="url(#neuralPath)" stroke-width="2" opacity="0.7">
     <animate attributeName="d" 
@@ -75,7 +69,6 @@
     <animate attributeName="stroke-width" values="2;3;2" dur="1.5s" repeatCount="indefinite"/>
   </path>
   
-  <!-- Neural Pathway 2 -->
   <path d="M120,120 Q150,180 180,120 T220,150 T180,180 T120,150 T120,120" 
         fill="none" stroke="#00ff41" stroke-width="1.5" opacity="0.6">
     <animate attributeName="d" 
@@ -86,7 +79,6 @@
     <animate attributeName="opacity" values="0.6;0.8;0.6" dur="1.8s" repeatCount="indefinite"/>
   </path>
   
-  <!-- Neural Pathway 3 -->
   <path d="M140,140 Q150,100 160,140 T180,150 T160,160 T140,150 T140,140" 
         fill="none" stroke="#8a2be2" stroke-width="1" opacity="0.5">
     <animate attributeName="d" 
@@ -97,7 +89,6 @@
     <animate attributeName="opacity" values="0.5;0.7;0.5" dur="1.5s" repeatCount="indefinite"/>
   </path>
   
-  <!-- Floating Energy Particles -->
   <circle cx="130" cy="130" r="2" fill="#00f5ff" opacity="0.8">
     <animate attributeName="cx" values="130;135;130" dur="2s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="130;125;130" dur="1.8s" repeatCount="indefinite"/>
@@ -116,18 +107,15 @@
     <animate attributeName="r" values="1;2;1" dur="1.2s" repeatCount="indefinite"/>
   </circle>
   
-  <!-- Core Energy Pulse -->
   <circle cx="150" cy="150" r="15" fill="#00f5ff" opacity="0.9" filter="url(#intenseGlow)">
     <animate attributeName="r" values="15;20;15" dur="1s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.9;1;0.9" dur="0.8s" repeatCount="indefinite"/>
   </circle>
   
-  <!-- Inner Core -->
   <circle cx="150" cy="150" r="8" fill="#ffffff" opacity="0.95">
     <animate attributeName="r" values="8;10;8" dur="0.5s" repeatCount="indefinite"/>
   </circle>
   
-  <!-- Connection Points -->
   <g opacity="0.8">
     <circle cx="100" cy="100" r="3" fill="#00f5ff">
       <animate attributeName="r" values="3;4;3" dur="1s" repeatCount="indefinite"/>
