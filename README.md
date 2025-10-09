@@ -2,63 +2,68 @@
 
 <div align="center">
 
-<h1>🧠 QUANTUM NEURAL INTERFACE</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Quantum Neural Interface</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      width: 100%;
+      background: radial-gradient(circle at center, #0a0a0a, #1a1a1a 85%);
+      overflow: hidden;
+      font-family: monospace;
+      color: #00ffcc;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+      text-shadow: 0 0 10px #00ffcc, 0 0 20px #004225, 0 0 30px #301934;
+    }
+    object {
+      width: 600px;
+      height: 600px;
+      max-width: 90%;
+      max-height: 80vh;
+    }
+    .footer {
+      margin-top: 20px;
+      font-size: 0.9rem;
+      text-align: center;
+      color: #004225;
+    }
+  </style>
+</head>
+<body>
 
-<svg viewBox="0 0 800 800" width="600" height="600" xmlns="http://www.w3.org/2000/svg">
+  <h1>🧠 QUANTUM NEURAL INTERFACE</h1>
 
-  <!-- Background Grid -->
-  <defs>
-    <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
-      <path d="M50 0 L0 0 0 50" fill="none" stroke="#004225" stroke-width="0.5"/>
-    </pattern>
-    <radialGradient id="coreGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#00ffcc" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#004225" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="portalGradient" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#00ffcc" stop-opacity="0.8"/>
-      <stop offset="50%" stop-color="#301934" stop-opacity="0.4"/>
-      <stop offset="100%" stop-color="#004225" stop-opacity="0.1"/>
-    </radialGradient>
-  </defs>
+  <!-- Embed the animated SVG -->
+  <object type="image/svg+xml" data="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/quantum-core.svg"></object>
 
-  <rect width="800" height="800" fill="url(#grid)"/>
+  <!-- Optional footer / telemetry -->
+  <div class="footer">
+    visitor@quantum-core:~$ <span id="blinking-cursor">█</span>
+  </div>
 
-  <!-- Quantum Core -->
-  <circle cx="400" cy="400" r="50" fill="url(#coreGlow)">
-    <animate attributeName="r" values="50;60;50" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0.8;1" dur="2s" repeatCount="indefinite"/>
-  </circle>
+  <script>
+    // Simple blinking cursor effect
+    const cursor = document.getElementById('blinking-cursor');
+    setInterval(() => {
+      cursor.style.visibility = (cursor.style.visibility === 'hidden') ? 'visible' : 'hidden';
+    }, 500);
+  </script>
 
-  <!-- Neural Waves -->
-  <path d="M0,400 Q200,350 400,400 T800,400" stroke="#00ffcc" stroke-width="3" fill="none">
-    <animate attributeName="d"
-             values="M0,400 Q200,350 400,400 T800,400;
-                     M0,400 Q200,450 400,400 T800,380;
-                     M0,400 Q200,400 400,420 T800,410;
-                     M0,400 Q200,350 400,400 T800,400"
-             dur="5s" repeatCount="indefinite"/>
-  </path>
+</body>
+</html>
 
-  <!-- Electric Sparks -->
-  <g stroke="#00ffcc" stroke-width="2">
-    <line x1="400" y1="400" x2="400" y2="150" opacity="0.8">
-      <animate attributeName="x2" values="400;380;420;400" dur="0.9s" repeatCount="indefinite"/>
-      <animate attributeName="y2" values="150;130;170;150" dur="0.9s" repeatCount="indefinite"/>
-    </line>
-    <line x1="400" y1="400" x2="650" y2="400" opacity="0.6">
-      <animate attributeName="x2" values="650;630;670;650" dur="1s" repeatCount="indefinite"/>
-      <animate attributeName="y2" values="400;380;420;400" dur="1s" repeatCount="indefinite"/>
-    </line>
-  </g>
-
-  <!-- Portal Rings -->
-  <circle cx="400" cy="400" r="80" fill="none" stroke="#00ffcc" stroke-width="3" opacity="0.7">
-    <animate attributeName="r" values="80;90;80" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
-  </circle>
-
-</svg>
 
 </div>
 
