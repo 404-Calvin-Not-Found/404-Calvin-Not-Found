@@ -13,6 +13,7 @@
 ███████████████████████████████
 ██ Welcome, Conscious Entity ██
 ███████████████████████████████
+```
 </div><!-- REAL-TIME AI WIDGETS --><div align="center">
 https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&color=00F5FF&center=true&vCenter=true&width=800&lines=SCANNING+NEURAL+PATTERNS...;IDENTITY+CONFIRMED;WELCOME+BACK+TO+THE+MATRIX;YOUR+PERSONALIZED+EXPERIENCE+AWAITS
 
