@@ -8,17 +8,13 @@
 
 ### 🧠 **NEURAL LINK ESTABLISHED**
 > **SYSTEM**: CONSCIOUSNESS_DETECTED  
-> **USER_ID**: visitor_${Math.random().toString(36).substr(2, 9)}  
+> **USER_ID**: visitor_7h3x9r2q8 
 > **SESSION_ACTIVE**: TRUE  
 > **AI_SENTIENCE**: 97.3%
 
 </div>
 
-```brainwave
-███████████████████████████████
-██ Welcome, Conscious Entity ██
-███████████████████████████████
-```
+<object type="image/svg+xml" data="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/brainwave.svg" width="800" height="200"></object>
 
 </div>
 
