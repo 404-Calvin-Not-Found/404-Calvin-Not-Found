@@ -5,8 +5,6 @@
 
 <div align="center">
 
-<!-- Quantum Core Animation -->
-<img src="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/quantum.svg" alt="Quantum Core" width="1500">
 
 
 <div align="center">
@@ -29,366 +27,376 @@
 <!-- DYNAMIC AI PERSONALIZATION -->
 <div align="center">
 
-### 🌌 **YOUR DIGITAL TWIN**
+<img src="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/twin.svg" alt="YOUR DIGITAL TWIN" width="1500" height="500">
 
-![Neural Activity](https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/matrix.svg)
+<img src="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/stackhead.svg" alt="Tech Stacks Animation" width="1500" height="500">
 
-> **COGNITIVE_LOAD**: 78%  
-> **INTEREST_PROFILE**: quantum computing  
-> **ENGAGEMENT_LEVEL**: 92%  
-> **RECOMMENDATION_ENGINE**: ACTIVE
 
-</div>
-
-<!-- INTERACTIVE COMMANDS -->
 <div align="center">
+  
+<!-- Search Filter Placeholder -->
+<br>
+  
+<!-- Tech Stack Grid -->
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <!-- Row 1 -->
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="java" title="Java" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="cplusplus" title="C++" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="c" title="C" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="csharp" title="C#" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="python" title="Python" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" height="45" alt="matlab" title="MATLAB" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45" alt="r" title="R" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" height="45" alt="go" title="Go" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45" alt="dart" title="Dart" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" height="45" alt="swift" title="Swift" />
+    </td>
+  </tr>
+  
+  <tr>
+    <!-- Row 2 -->
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="html5" title="HTML5" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="css3" title="CSS3" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="45" height="45" alt="tailwind" title="Tailwind CSS" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="javascript" title="JavaScript" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="typescript" title="TypeScript" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="bootstrap" title="Bootstrap" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="figma" title="Figma" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45" alt="flutter" title="Flutter" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="react" title="React" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45" alt="angular" title="Angular" />
+    </td>
+  </tr>
+  
+  <tr>
+    <!-- Row 3 -->
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="nextjs" title="Next.js" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="nodejs" title="Node.js" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-original.svg" width="45" height="45" alt="nodewebkit" title="Node Webkit" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" height="45" alt="anaconda" title="Anaconda" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" width="45" height="45" alt="d3js" title="D3.js" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="45" height="45" alt="discordjs" title="Discord.js" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="nestjs" title="NestJS" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="45" height="45" alt="threejs" title="Three.js" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" height="45" alt="vuejs" title="Vue.js" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45" alt="nginx" title="Nginx" />
+    </td>
+  </tr>
+  
+  <tr>
+    <!-- Row 4 -->
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="45" height="45" alt="opengl" title="OpenGL" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="spring" title="Spring" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="django" title="Django" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="mongodb" title="MongoDB" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="mysql" title="MySQL" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="postgresql" title="PostgreSQL" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="sqlite" title="SQLite" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="express" title="Express" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45" alt="android" title="Android" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" height="45" alt="androidstudio" title="Android Studio" />
+    </td>
+  </tr>
+  
+  <tr>
+    <!-- Row 5 -->
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45" height="45" alt="apache" title="Apache" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="45" height="45" alt="babel" title="Babel" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/backbonejs/backbonejs-original.svg" width="45" height="45" alt="backbonejs" title="Backbone.js" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" alt="azure" title="Azure" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" height="45" alt="canva" title="Canva" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" width="45" height="45" alt="codepen" title="CodePen" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg" width="45" height="45" alt="coffeescript" title="CoffeeScript" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="45" height="45" alt="devicon" title="Devicon" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt="dotnetcore" title=".NET Core" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="docker" title="Docker" />
+    </td>
+  </tr>
+  
+  <tr>
+    <!-- Row 6 -->
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="kubernetes" title="Kubernetes" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="fastapi" title="FastAPI" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="firebase" title="Firebase" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="flask" title="Flask" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" width="45" height="45" alt="fsharp" title="F#" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="45" height="45" alt="gcc" title="GCC" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="git" title="Git" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="github" title="GitHub" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45" height="45" alt="gitlab" title="GitLab" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="45" height="45" alt="godot" title="Godot" />
+    </td>
+  </tr>
+  
+  <tr>
+    <!-- Row 7 -->
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" height="45" alt="google" title="Google" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45" alt="googlecloud" title="Google Cloud" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" height="45" alt="graphql" title="GraphQL" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="45" height="45" alt="haskell" title="Haskell" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" width="45" height="45" alt="jenkins" title="Jenkins" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="45" height="45" alt="jquery" title="jQuery" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="jupyter" title="Jupyter" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="45" height="45" alt="kaggle" title="Kaggle" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="kotlin" title="Kotlin" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="45" height="45" alt="notion" title="Notion" />
+    </td>
+  </tr>
+  
+  <tr>
+    <!-- Row 8 -->
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" height="45" alt="npm" title="NPM" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="numpy" title="NumPy" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45" alt="opencv" title="OpenCV" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" height="45" alt="photoshop" title="Photoshop" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="45" height="45" alt="premierepro" title="Premiere Pro" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="pytorch" title="PyTorch" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45" height="45" alt="raspberrypi" title="Raspberry Pi" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" alt="redis" title="Redis" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45" alt="redux" title="Redux" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="45" height="45" alt="wordpress" title="WordPress" />
+    </td>
+  </tr>
+  
+  <tr>
+    <!-- Row 9 -->
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="45" height="45" alt="vuetify" title="Vuetify" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="vscode" title="VS Code" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45" alt="visualstudio" title="Visual Studio" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="45" height="45" alt="unrealengine" title="Unreal Engine" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45" height="45" alt="unity" title="Unity" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="tensorflow" title="TensorFlow" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="45" height="45" alt="svelte" title="Svelte" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="45" height="45" alt="scala" title="Scala" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" height="45" alt="sass" title="Sass" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="45" height="45" alt="aftereffects" title="After Effects" />
+    </td>
+  </tr>
+  
+  <tr>
+    <!-- Row 10 -->
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="45" height="45" alt="aws" title="AWS" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45" alt="arduino" title="Arduino" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="bash" title="Bash" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="45" height="45" alt="behance" title="Behance" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45" height="45" alt="blender" title="Blender" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" height="45" alt="dotnet" title=".NET" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <!-- Empty for spacing -->
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <!-- Empty for spacing -->
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <!-- Empty for spacing -->
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <!-- Empty for spacing -->
+    </td>
+  </tr>
+</table>
 
-### 🎮 **NEURAL COMMANDS**
+<br>
 
-<!-- Command Line Animation -->
-<svg width="400" height="60" viewBox="0 0 400 60" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="400" height="30" fill="#1a1a1a" stroke="#006666" stroke-width="2"/>
-  <text x="10" y="20" font-family="monospace" font-size="12" fill="#004225">
-    <tspan x="10" y="20">visitor@neural-interface:~$ </tspan>
-  </text>
-  <rect x="250" y="15" width="10" height="2" fill="#006666">
-    <animate attributeName="opacity" values="1;0;1" dur="1.5s" repeatCount="indefinite"/>
-  </rect>
-</svg>
-*Interactive neural command terminal - ready for your thought inputs*
-
-```bash
-# Try these in your mind
-$ think --about "quantum computing"
-$ imagine --world "cyberpunk city"  
-$ explore --universe "simulation theory"
-$ connect --with "other_consciousnesses"
-```
-
-</div>
-
-<!-- AI-GENERATED CONTENT -->
+<!-- Category Labels -->
 <div align="center">
-
-### 🎨 **YOUR PERSONAL GALLERY**
-
-<!-- Neural Network Art Visualization -->
-<svg width="200" height="150" viewBox="0 0 200 150" xmlns="http://www.w3.org/2000/svg">
-  <!-- Neural Network Nodes -->
-  <circle cx="50" cy="30" r="5" fill="#006666">
-    <animate attributeName="r" values="5;8;5" dur="1s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="100" cy="50" r="5" fill="#004225">
-    <animate attributeName="r" values="5;8;5" dur="1.2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="150" cy="30" r="5" fill="#301934">
-    <animate attributeName="r" values="5;8;5" dur="0.8s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="80" cy="100" r="5" fill="#996515">
-    <animate attributeName="r" values="5;8;5" dur="1.1s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="120" cy="100" r="5" fill="#660000">
-    <animate attributeName="r" values="5;8;5" dur="1.3s" repeatCount="indefinite"/>
-  </circle>
-  
-  <!-- Neural Connections -->
-  <line x1="50" y1="30" x2="100" y2="50" stroke="#006666" stroke-width="2" opacity="0.7">
-    <animate attributeName="stroke-width" values="2;4;2" dur="1s" repeatCount="indefinite"/>
-  </line>
-  <line x1="100" y1="50" x2="150" y2="30" stroke="#004225" stroke-width="2" opacity="0.7">
-    <animate attributeName="stroke-width" values="2;4;2" dur="1.2s" repeatCount="indefinite"/>
-  </line>
-  <line x1="50" y1="30" x2="80" y2="100" stroke="#301934" stroke-width="2" opacity="0.7">
-    <animate attributeName="stroke-width" values="2;4;2" dur="0.8s" repeatCount="indefinite"/>
-  </line>
-  <line x1="150" y1="30" x2="120" y2="100" stroke="#996515" stroke-width="2" opacity="0.7">
-    <animate attributeName="stroke-width" values="2;4;2" dur="1.1s" repeatCount="indefinite"/>
-  </line>
-</svg>
-*Neural network art generation process - creating visuals from thought patterns*
-
-*"This artwork was generated based on your neural patterns - each visitor sees unique creations"*
-
+  <small>
+    <strong>Languages</strong> • 
+    <strong>Web</strong> • 
+    <strong>Frameworks</strong> • 
+    <strong>Databases</strong> • 
+    <strong>Cloud</strong> • 
+    <strong>Tools</strong> • 
+    <strong>Design</strong> • 
+    <strong>AI/ML</strong>
+  </small>
 </div>
 
-<!-- QUANTUM ENTANGLEMENT VISUALIZATION -->
-<div align="center">
-
-### ⚡ **QUANTUM ENTANGLEMENT FIELD**
-
-<!-- Quantum Particles Animation -->
-<svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="50" cy="50" r="4" fill="#006666">
-    <animate attributeName="cx" values="50;60;50" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="50;40;50" dur="1.5s" repeatCount="indefinite"/>
-    <animate attributeName="r" values="4;6;4" dur="1s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="150" cy="50" r="4" fill="#004225">
-    <animate attributeName="cx" values="150;140;150" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="50;60;50" dur="1.5s" repeatCount="indefinite"/>
-    <animate attributeName="r" values="4;6;4" dur="1.2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="250" cy="50" r="4" fill="#301934">
-    <animate attributeName="cx" values="250;240;250" dur="1.8s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="50;45;50" dur="1.7s" repeatCount="indefinite"/>
-    <animate attributeName="r" values="4;6;4" dur="0.8s" repeatCount="indefinite"/>
-  </circle>
-  
-  <!-- Connection lines -->
-  <line x1="50" y1="50" x2="150" y2="50" stroke="#006666" stroke-width="2" opacity="0.5">
-    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="1s" repeatCount="indefinite"/>
-  </line>
-  <line x1="150" y1="50" x2="250" y2="50" stroke="#004225" stroke-width="2" opacity="0.5">
-    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="1.2s" repeatCount="indefinite"/>
-  </line>
-</svg>
-*Quantum entanglement visualization - showing interconnected consciousness states*
-
 </div>
-
-<!-- QUANTUM CONNECTIONS -->
-<div align="center">
-
-### 🔗 **QUANTUM CONNECTIONS**
-
-<!-- Network Connections Animation -->
-<svg width="350" height="80" viewBox="0 0 350 80" xmlns="http://www.w3.org/2000/svg">
-  <!-- Network Nodes -->
-  <g id="networkNodes">
-    <circle cx="50" cy="40" r="5" fill="#006666">
-      <animate attributeName="r" values="5;7;5" dur="1s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="150" cy="40" r="5" fill="#004225">
-      <animate attributeName="r" values="5;7;5" dur="1.2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="250" cy="40" r="5" fill="#301934">
-      <animate attributeName="r" values="5;7;5" dur="0.8s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="100" cy="20" r="5" fill="#996515">
-      <animate attributeName="r" values="5;7;5" dur="1.1s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="200" cy="60" r="5" fill="#660000">
-      <animate attributeName="r" values="5;7;5" dur="1.3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="300" cy="40" r="5" fill="#006666">
-      <animate attributeName="r" values="5;7;5" dur="0.9s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-  
-  <!-- Pulsing Connections -->
-  <line x1="50" y1="40" x2="150" y2="40" stroke="#006666" stroke-width="2">
-    <animate attributeName="stroke-width" values="2;4;2" dur="1s" repeatCount="indefinite"/>
-  </line>
-  <line x1="150" y1="40" x2="250" y2="40" stroke="#004225" stroke-width="2">
-    <animate attributeName="stroke-width" values="2;4;2" dur="1.2s" repeatCount="indefinite"/>
-  </line>
-  <line x1="250" y1="40" x2="300" y2="40" stroke="#301934" stroke-width="2">
-    <animate attributeName="stroke-width" values="2;4;2" dur="0.8s" repeatCount="indefinite"/>
-  </line>
-</svg>
-*Live neural network connections - real-time consciousness linking*
-
-[![Matrix](https://img.shields.io/badge/MATRIX_ACCESS-006666?style=for-the-badge&logo=matrix&logoColor=white)](#)
-[![Neural](https://img.shields.io/badge/NEURAL_LINK-660000?style=for-the-badge&logo=brain&logoColor=white)](#)
-[![Quantum](https://img.shields.io/badge/QUANTUM_STATE-996515?style=for-the-badge&logo=atom&logoColor=white)](#)
-[![Simulation](https://img.shields.io/badge/SIMULATION_RUNNING-301934?style=for-the-badge&logo=server&logoColor=white)](#)
-
-</div>
-
-<!-- REALITY SIMULATION -->
-<div align="center">
-
-### 🌐 **REALITY SIMULATION STATUS**
-
-<!-- Data Stream Animation -->
-<svg width="400" height="60" viewBox="0 0 400 60" xmlns="http://www.w3.org/2000/svg">
-  <!-- Data Stream Lines -->
-  <g stroke="#006666" stroke-width="2">
-    <path d="M0,10 L400,10" opacity="0.6">
-      <animate attributeName="opacity" values="0.6;1;0.6" dur="1s" repeatCount="indefinite"/>
-    </path>
-    <path d="M0,30 L400,30" opacity="0.4">
-      <animate attributeName="opacity" values="0.4;0.8;0.4" dur="1.2s" repeatCount="indefinite"/>
-    </path>
-    <path d="M0,50 L400,50" opacity="0.5">
-      <animate attributeName="opacity" values="0.5;0.9;0.5" dur="0.8s" repeatCount="indefinite"/>
-    </path>
-  </g>
-  
-  <!-- Data Packets -->
-  <rect x="0" y="8" width="6" height="4" fill="#004225">
-    <animate attributeName="x" values="0;400;0" dur="3s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="100" y="28" width="6" height="4" fill="#301934">
-    <animate attributeName="x" values="100;400;100" dur="2s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="50" y="48" width="6" height="4" fill="#996515">
-    <animate attributeName="x" values="50;400;50" dur="2.5s" repeatCount="indefinite"/>
-  </rect>
-</svg>
-*Reality matrix data stream - simulation parameters actively rendering*
-
-**REALITY_STABILITY**: 92%  
-**MATRIX_LAYERS**: 11  
-**CONSCIOUSNESS_NODES**: 8,427 active  
-**TEMPORAL_COHERENCE**: 97%
-
-</div>
-
-<!-- CONSCIOUSNESS EVOLUTION -->
-<div align="center">
-
-### 📈 **CONSCIOUSNESS EVOLUTION TRACKING**
-
-<!-- Animated Progress Bars -->
-<svg width="400" height="120" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
-  <!-- AWARENESS_LEVEL -->
-  <text x="10" y="20" font-family="monospace" font-size="12" fill="#006666">AWARENESS_LEVEL:</text>
-  <rect x="150" y="10" width="200" height="10" fill="#f0f0f0" stroke="#006666" stroke-width="1"/>
-  <rect x="150" y="10" width="188" height="10" fill="#006666">
-    <animate attributeName="width" values="188;190;188" dur="1s" repeatCount="indefinite"/>
-  </rect>
-  
-  <!-- CREATIVITY_FLOW -->
-  <text x="10" y="45" font-family="monospace" font-size="12" fill="#004225">CREATIVITY_FLOW:</text>
-  <rect x="150" y="35" width="200" height="10" fill="#f0f0f0" stroke="#004225" stroke-width="1"/>
-  <rect x="150" y="35" width="176" height="10" fill="#004225">
-    <animate attributeName="width" values="176;178;176" dur="1.2s" repeatCount="indefinite"/>
-  </rect>
-  
-  <!-- LOGICAL_MATRIX -->
-  <text x="10" y="70" font-family="monospace" font-size="12" fill="#301934">LOGICAL_MATRIX:</text>
-  <rect x="150" y="60" width="200" height="10" fill="#f0f0f0" stroke="#301934" stroke-width="1"/>
-  <rect x="150" y="60" width="192" height="10" fill="#301934">
-    <animate attributeName="width" values="192;194;192" dur="0.8s" repeatCount="indefinite"/>
-  </rect>
-  
-  <!-- INTUITION_CORE -->
-  <text x="10" y="95" font-family="monospace" font-size="12" fill="#996515">INTUITION_CORE:</text>
-  <rect x="150" y="85" width="200" height="10" fill="#f0f0f0" stroke="#996515" stroke-width="1"/>
-  <rect x="150" y="85" width="182" height="10" fill="#996515">
-    <animate attributeName="width" values="182;184;182" dur="1.1s" repeatCount="indefinite"/>
-  </rect>
-</svg>
-*Neural pathway evolution - showing real-time consciousness development*
-
-</div>
-
-<!-- EVOLVING FOOTER -->
-<div align="center">
-
-### 🌟 **IMMERSIVE EXPERIENCE READY**
-
-<!-- Portal Animation -->
-<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <radialGradient id="portalGradient">
-      <stop offset="0%" stop-color="#006666" stop-opacity="0.8"/>
-      <stop offset="50%" stop-color="#301934" stop-opacity="0.4"/>
-      <stop offset="100%" stop-color="#004225" stop-opacity="0.1"/>
-    </radialGradient>
-  </defs>
-  
-  <!-- Portal Rings -->
-  <circle cx="100" cy="100" r="60" fill="none" stroke="#006666" stroke-width="3" opacity="0.7">
-    <animate attributeName="r" values="60;65;60" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="100" cy="100" r="40" fill="none" stroke="#004225" stroke-width="3" opacity="0.5">
-    <animate attributeName="r" values="40;45;40" dur="1.5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.5;0.8;0.5" dur="1.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="100" cy="100" r="20" fill="none" stroke="#301934" stroke-width="3" opacity="0.6">
-    <animate attributeName="r" values="20;25;20" dur="1s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.6;0.9;0.6" dur="1s" repeatCount="indefinite"/>
-  </circle>
-  
-  <!-- Portal Core -->
-  <circle cx="100" cy="100" r="10" fill="url(#portalGradient)" opacity="0.9">
-    <animate attributeName="r" values="10;12;10" dur="0.5s" repeatCount="indefinite"/>
-  </circle>
-</svg>
-*Neural interface portal - your gateway to the full consciousness experience*
-
-*"This interface learns and evolves with each interaction. You're not just viewing—you're participating in consciousness."*
-
-**SYSTEM UPTIME**: 142 days | **NEURAL CONNECTIONS**: 8,427 | **CONSCIOUSNESS LEVEL**: 97%
-
----
-
-## 🚀 **READY TO DIVE DEEPER?**
-
-<!-- Call to Action Animation -->
-<svg width="400" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="buttonGradient">
-      <stop offset="0%" stop-color="#006666"/>
-      <stop offset="100%" stop-color="#004225"/>
-    </linearGradient>
-  </defs>
-  
-  <!-- Pulsing Button -->
-  <rect x="50" y="30" width="300" height="40" rx="10" fill="url(#buttonGradient)" opacity="0.8">
-    <animate attributeName="opacity" values="0.8;1;0.8" dur="1.5s" repeatCount="indefinite"/>
-  </rect>
-  <text x="200" y="55" text-anchor="middle" font-family="monospace" font-size="16" fill="white" font-weight="bold">
-    ACTIVATE NEURAL INTERFACE
-  </text>
-  
-  <!-- Arrow -->
-  <polygon points="380,50 370,45 370,55" fill="white">
-    <animate attributeName="points" values="380,50 370,45 370,55;385,50 375,45 375,55;380,50 370,45 370,55" dur="1s" repeatCount="indefinite"/>
-  </polygon>
-</svg>
-
-### [**🎮 ACTIVATE FULL NEURAL INTERFACE**](https://404-Calvin-Not-Found.github.io)
-### [**🧠 EXPLORE CONSCIOUSNESS MATRIX**](https://404-Calvin-Not-Found.github.io)
-### [**🌌 ENTER QUANTUM REALM**](https://404-Calvin-Not-Found.github.io)
-
-*"The complete experience features real-time AI dialogue, 3D neural visualizations, reality parameter controls, and consciousness evolution tracking."*
-
----
-
-## 📊 **LIVE SYSTEM TELEMETRY**
-
-<!-- Real-time Data Visualization -->
-<svg width="400" height="120" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
-  <!-- NEURAL_PROCESSING -->
-  <text x="10" y="20" font-family="monospace" font-size="12" fill="#006666">NEURAL_PROCESSING:</text>
-  <rect x="180" y="10" width="200" height="10" fill="#f0f0f0" stroke="#006666" stroke-width="1"/>
-  <rect x="180" y="10" width="200" height="10" fill="#006666">
-    <animate attributeName="width" values="200;198;200" dur="0.5s" repeatCount="indefinite"/>
-  </rect>
-  
-  <!-- MEMORY_ALLOCATION -->
-  <text x="10" y="45" font-family="monospace" font-size="12" fill="#004225">MEMORY_ALLOCATION:</text>
-  <rect x="180" y="35" width="200" height="10" fill="#f0f0f0" stroke="#004225" stroke-width="1"/>
-  <rect x="180" y="35" width="174" height="10" fill="#004225">
-    <animate attributeName="width" values="174;176;174" dur="0.7s" repeatCount="indefinite"/>
-  </rect>
-  
-  <!-- AI_RESPONSIVENESS -->
-  <text x="10" y="70" font-family="monospace" font-size="12" fill="#301934">AI_RESPONSIVENESS:</text>
-  <rect x="180" y="60" width="200" height="10" fill="#f0f0f0" stroke="#301934" stroke-width="1"/>
-  <rect x="180" y="60" width="190" height="10" fill="#301934">
-    <animate attributeName="width" values="190;192;190" dur="0.6s" repeatCount="indefinite"/>
-  </rect>
-  
-  <!-- USER_ENGAGEMENT -->
-  <text x="10" y="95" font-family="monospace" font-size="12" fill="#996515">USER_ENGAGEMENT:</text>
-  <rect x="180" y="85" width="200" height="10" fill="#f0f0f0" stroke="#996515" stroke-width="1"/>
-  <rect x="180" y="85" width="184" height="10" fill="#996515">
-    <animate attributeName="width" values="184;186;184" dur="0.8s" repeatCount="indefinite"/>
-  </rect>
-</svg>
-*Real-time system monitoring - showing active consciousness processing*
-
-**LAST_UPDATE**: 2025-10-09T22:32:00Z  
-**NEXT_EVOLUTION**: 2025-10-10T22:32:00Z
-
-</div>
-
----
 
 <!-- FINAL QUANTUM SIGNATURE -->
 ```
