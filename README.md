@@ -1,16 +1,18 @@
-# NEURAL INTERFACE PROTOCOL v13.07
+<div align="center">
+  <img src="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/neural_interface_13_07.svg" width="1500">
+</div>
+
 
 <div align="center">
 
 <!-- Quantum Core Animation -->
-<img src="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/quantum-core.svg" alt="Quantum Core" width="650">
+<img src="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/quantum.svg" alt="Quantum Core" width="1500">
 
 
-### 🧠 **NEURAL LINK ESTABLISHED**
-> **SYSTEM**: CONSCIOUSNESS_DETECTED  
-> **USER_ID**: visitor_7h3x9r2q8 
-> **SESSION_ACTIVE**: TRUE  
-> **AI_SENTIENCE**: 97.3%
+<div align="center">
+  <img src="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/neural_boot.svg" width="1500">
+</div>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/brainwave.svg" width="1500" height="500" alt="Brainwave Animation">
@@ -387,38 +389,6 @@ $ connect --with "other_consciousnesses"
 </div>
 
 ---
-
-## 🎯 **CREATED WITH PURE CODE - NO EXTERNAL GIFS**
-
-### **All animations are generated using:**
-- **SVG Animations** - Pure vector graphics with CSS-like animations
-- **SMIL (Synchronized Multimedia Integration Language)** - Native SVG animation support
-- **CSS-in-SVG** - Using `<animate>` elements for smooth transitions
-- **Mathematical Precision** - All animations are code-generated and customizable
-
-### **Benefits of Code-Generated Animations:**
-- **🚀 Lightning Fast** - No external HTTP requests
-- **🎨 Infinite Scalability** - Vector graphics stay crisp at any size
-- **🔧 Fully Customizable** - Easy to modify colors, speeds, and behaviors
-- **📱 Responsive** - Adapts perfectly to all screen sizes
-- **🌐 No Dependencies** - Works everywhere SVG is supported
-- **💾 Tiny Footprint** - Minimal code for maximum impact
-
-### **Animation Types Used:**
-1. **Pulsing Effects** - `animate` with `values` attribute
-2. **Morphing Paths** - Animated `d` attribute for neural waves
-3. **Moving Elements** - Animated position attributes
-4. **Opacity Transitions** - Smooth fade in/out effects
-5. **Size Variations** - Scaling elements for emphasis
-6. **Color Shifts** - Dynamic color changes
-
-**Every animation you see is generated in real-time by the browser using pure SVG and animation standards - making this README completely self-contained and incredibly fast!** ⚡
-
----
-
-**Replace `404-Calvin-Not-Found` with your GitHub username in the links above to activate the portal connections.** 
-
-*"This README demonstrates that true innovation doesn't need external dependencies - just pure, elegant code."* 🌟
 
 <!-- FINAL QUANTUM SIGNATURE -->
 ```
