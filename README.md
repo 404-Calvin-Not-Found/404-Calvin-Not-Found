@@ -21,7 +21,6 @@
 
 <!-- Animated typing SVG that cycles through multiple messages -->
 [![AI Status](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&color=003366&center=true&vCenter=true&width=800&lines=SCANNING+NEURAL+PATTERNS...;IDENTITY+CONFIRMED;WELCOME+BACK+TO+THE+MATRIX;YOUR+PERSONALIZED+EXPERIENCE+AWAITS)](https://git.io/typing-svg)
-*Live neural scanning simulation - AI actively processing visitor presence*
 
 </div>
 
