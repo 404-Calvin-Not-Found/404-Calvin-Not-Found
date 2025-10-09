@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Quantum Core Animation -->
-<img src="[https://raw.githubusercontent.com/YOUR_USERNAME/svg-animations/main/quantum-core.svg](https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/quantum-core.svg)" alt="Quantum Core" width="300">
+<img src="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/quantum-core.svg" alt="Quantum Core" width="300">
 
 ### 🧠 **NEURAL LINK ESTABLISHED**
 > **SYSTEM**: CONSCIOUSNESS_DETECTED  
