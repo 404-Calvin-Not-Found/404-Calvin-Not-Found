@@ -2,68 +2,22 @@
 
 <div align="center">
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Quantum Neural Interface</title>
-  <style>
-    html, body {
-      margin: 0;
-      padding: 0;
-      height: 100%;
-      width: 100%;
-      background: radial-gradient(circle at center, #0a0a0a, #1a1a1a 85%);
-      overflow: hidden;
-      font-family: monospace;
-      color: #00ffcc;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      flex-direction: column;
-    }
-    h1 {
-      text-align: center;
-      margin-bottom: 20px;
-      text-shadow: 0 0 10px #00ffcc, 0 0 20px #004225, 0 0 30px #301934;
-    }
-    object {
-      width: 600px;
-      height: 600px;
-      max-width: 90%;
-      max-height: 80vh;
-    }
-    .footer {
-      margin-top: 20px;
-      font-size: 0.9rem;
-      text-align: center;
-      color: #004225;
-    }
-  </style>
-</head>
-<body>
+<!-- Quantum Neural Interface HTML -->
+<h1>🧠 QUANTUM NEURAL INTERFACE</h1>
 
-  <h1>🧠 QUANTUM NEURAL INTERFACE</h1>
+<object type="image/svg+xml" data="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/quantum-core.svg" style="width:600px; height:600px; max-width:90%; max-height:80vh;"></object>
 
-  <!-- Embed the animated SVG -->
-  <object type="image/svg+xml" data="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/quantum-core.svg"></object>
+<div style="margin-top:20px; font-family: monospace; color: #00ffcc;">
+visitor@quantum-core:~$ <span id="blinking-cursor">█</span>
+</div>
 
-  <!-- Optional footer / telemetry -->
-  <div class="footer">
-    visitor@quantum-core:~$ <span id="blinking-cursor">█</span>
-  </div>
-
-  <script>
-    // Simple blinking cursor effect
-    const cursor = document.getElementById('blinking-cursor');
-    setInterval(() => {
-      cursor.style.visibility = (cursor.style.visibility === 'hidden') ? 'visible' : 'hidden';
-    }, 500);
-  </script>
-
-</body>
-</html>
-
+<script>
+// Blinking cursor effect
+const cursor = document.getElementById('blinking-cursor');
+setInterval(() => {
+  cursor.style.visibility = (cursor.style.visibility === 'hidden') ? 'visible' : 'hidden';
+}, 500);
+</script>
 
 </div>
 
