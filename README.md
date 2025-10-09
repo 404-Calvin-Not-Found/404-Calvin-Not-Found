@@ -2,8 +2,34 @@
 
 <div align="center">
 
-<!-- Quantum Core Animation -->
-<img src="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/quantum-core.svg" alt="Quantum Core" width="300">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Futuristic Quantum Core</title>
+<style>
+  body {
+    margin: 0;
+    background: #fdfdfd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  object {
+    width: 400px;
+    height: 400px;
+  }
+</style>
+</head>
+<body>
+
+<object type="image/svg+xml" data="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/quantum-core.svg"></object>
+
+</body>
+</html>
+
+
 
 ### 🧠 **NEURAL LINK ESTABLISHED**
 > **SYSTEM**: CONSCIOUSNESS_DETECTED  
