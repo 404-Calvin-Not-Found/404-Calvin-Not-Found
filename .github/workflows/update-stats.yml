@@ -1,0 +1,42 @@
+name: Update HUD Stats
+on:
+  schedule:
+    - cron: '0 * * * *'  # Every hour
+  workflow_dispatch: {}   # Manual trigger
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Update README with current stats
+        run: |
+          # Generate random energy between 85-100%
+          ENERGY=$((85 + RANDOM % 16))
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          
+          # Create new stats block
+          cat > new_stats.txt << EOF
+<!-- STATS:START -->
+> **CORE STATUS**: ONLINE  
+> **ENERGY LEVEL**: ${ENERGY}%  
+> **LAST UPDATE**: ${TIMESTAMP}  
+> **MISSION READY**: TRUE
+<!-- STATS:END -->
+EOF
+
+          # Replace the stats block in README
+          sed -i '/<!-- STATS:START -->/,/<!-- STATS:END -->/{
+            /<!-- STATS:START -->/{
+              r new_stats.txt
+            }
+            /<!-- STATS:END -->/!d
+          }' README.md
+          
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: 'chore: update HUD stats'
+          add: 'README.md'
