@@ -51,4 +51,4 @@ https://img.shields.io/badge/SIMULATION_RUNNING-8A2BE2?style=for-the-badge&logo=
 
 SYSTEM UPTIME: ${days} days | NEURAL CONNECTIONS: ${connections} | CONSCIOUSNESS LEVEL: ${level}%
 
-</div> ```
+</div>
