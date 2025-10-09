@@ -2,22 +2,23 @@
 
 <div align="center">
 
-<!-- Quantum Neural Interface HTML -->
 <h1>🧠 QUANTUM NEURAL INTERFACE</h1>
 
 <object type="image/svg+xml" data="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/quantum-core.svg" style="width:600px; height:600px; max-width:90%; max-height:80vh;"></object>
 
 <div style="margin-top:20px; font-family: monospace; color: #00ffcc;">
-visitor@quantum-core:~$ <span id="blinking-cursor">█</span>
+visitor@quantum-core:~$ <span style="animation: blink 1s step-end infinite;">█</span>
 </div>
 
-<script>
-// Blinking cursor effect
-const cursor = document.getElementById('blinking-cursor');
-setInterval(() => {
-  cursor.style.visibility = (cursor.style.visibility === 'hidden') ? 'visible' : 'hidden';
-}, 500);
-</script>
+<style>
+@keyframes blink {
+  0%, 50%, 100% { opacity: 1; }
+  25%, 75% { opacity: 0; }
+}
+</style>
+
+</div>
+
 
 </div>
 
