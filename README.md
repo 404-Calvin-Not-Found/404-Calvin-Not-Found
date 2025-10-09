@@ -6,7 +6,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Futuristic Quantum Core</title>
+<title>Quantum Core FX</title>
 <style>
   body {
     margin: 0;
@@ -17,8 +17,8 @@
     height: 100vh;
   }
   object {
-    width: 400px;
-    height: 400px;
+    width: 500px;
+    height: 500px;
   }
 </style>
 </head>
@@ -28,6 +28,7 @@
 
 </body>
 </html>
+
 
 
 
