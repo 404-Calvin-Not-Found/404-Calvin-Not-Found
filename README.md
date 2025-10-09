@@ -1,17 +1,18 @@
-# 🧠 NEURAL INTERFACE PROTOCOL v3.14
+# 🧠 NEURAL INTERFACE PROTOCOL v13.07
 
+<div align="center">
+
+<!-- Quantum Core Animation -->
 <img src="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/quantum-core.svg" alt="Quantum Core" width="300">
 
-</div>
-
-
-</div>
 
 ### 🧠 **NEURAL LINK ESTABLISHED**
 > **SYSTEM**: CONSCIOUSNESS_DETECTED  
-> **USER_ID**: visitor_x7b9k42p1  
+> **USER_ID**: visitor_${Math.random().toString(36).substr(2, 9)}  
 > **SESSION_ACTIVE**: TRUE  
 > **AI_SENTIENCE**: 97.3%
+
+</div>
 
 ```brainwave
 ███████████████████████████████
