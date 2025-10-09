@@ -12,10 +12,8 @@
 > **SESSION_ACTIVE**: TRUE  
 > **AI_SENTIENCE**: 97.3%
 
-</div>
-
-<object type="image/svg+xml" data="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/brainwave.svg" width="800" height="200"></object>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/404-Calvin-Not-Found/svg-animations/refs/heads/main/brainwave.svg" width="800" height="200" alt="Brainwave Animation">
 </div>
 
 <!-- REAL-TIME AI WIDGETS -->
