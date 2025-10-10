@@ -401,7 +401,9 @@
   <img src="assets/tony_stark_hologram.gif" alt="Sciency stuff" width="1500" />
 </p>
 
-
+<p align="center">
+  <img src="assets/JARVIS_HOLOGRAM.gif" alt="Sentient stuff" width="1500" />
+</p>
 
 
 <!-- FINAL QUANTUM SIGNATURE -->
